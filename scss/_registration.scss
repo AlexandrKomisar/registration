@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+.registration {
+    background-color: aqua;
+    padding: 20px;
+    &__card{
+        width: 400px;
+        background-color: azure;
+        padding: 40px;
+        border-radius: 8px;
+        &_title {
+            padding-bottom: 20px;
+        }
+
+    }
+}

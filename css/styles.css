@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+.registration {
+  background-color: aqua;
+  padding: 20px;
+}
+
+.registration__card {
+  width: 400px;
+  background-color: azure;
+  padding: 40px;
+  border-radius: 8px;
+}
+
+.registration__card_title {
+  padding-bottom: 20px;
+}
+/*# sourceMappingURL=styles.css.map */
